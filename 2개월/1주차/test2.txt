@@ -1,0 +1,419 @@
+<div class="news_list_wrap">
+										<div class="news_list">
+						<div class="text_area">
+							<div class="title"><a href="https://www.ytn.co.kr/_ln/0105_202407241633215770">'우주 삼각 클러스터'에 7년간 3천8백억 원..."기반시설 먼저"</a></div>
+							<div class="content" style="display:none">나로우주센터가 있는 전남 고흥과 한국항공우주산업, KAI(카이)가 있는 경...</div>
+							<div class="join_key" style="display:none" value="202407241633215770">202407241633215770</div>
+							<div class="info">
+								<div class="date">2024.07.24. 16:33</div>
+								<div class="buttons">
+									<!--비로그인 시 로그인 페이지로 인동 -->
+									<div class="btn_share_wrap">
+										<a href="javascript:void(0);" class="btn_share"><span>공유하기</span></a>
+
+										<!--공유하기 팝업-->
+										<div id="top_box_share" class="bx_layer_share" style="display:none">
+											<div class="desc">
+												<span>공유하기</span>
+												<a href="javascript:void(0);" class="btn_close" onclick="$(this).closest('#top_box_share').hide();">닫기</a>
+											</div>
+											<ul class="sns_list">
+												<li class="facebook"><a href="javascript:void(0)" onclick="sendSNSList(2,'https://www.ytn.co.kr/_ln/0105_202407241633215770', 'https://www.ytn.co.kr/img/news/default_0105.jpg', this);" alt="페이스북 공유하기">페이스북</a></li>
+												<li class="twitter"><a href="javascript:void(0)" onclick="sendSNSList(3,'https://www.ytn.co.kr/_ln/0105_202407241633215770','https://www.ytn.co.kr/img/news/default_0105.jpg', this);" alt="트위터 공유하기">엑스</a></li>
+												<li class="band"><a href="javascript:void(0)" onclick="sendSNSList(4,'https://www.ytn.co.kr/_ln/0105_202407241633215770','https://www.ytn.co.kr/img/news/default_0105.jpg', this);" alt="밴드 공유하기">밴드</a></li>
+												<li class="kakao"><a href="javascript:void(0)" onclick="sendSNSList(5,'https://www.ytn.co.kr/_ln/0105_202407241633215770','https://www.ytn.co.kr/img/news/default_0105.jpg', this);" alt="카카오톡 공유하기">카카오톡</a></li>
+											</ul>
+											<div class="url_box">
+												<input class="url_text" type="text" readonly="" value="https://www.ytn.co.kr/_ln/0105_202407241633215770">
+												<a href="javascript:void(0);" onclick="sendSNSList(1,&quot;https://www.ytn.co.kr/_ln/0105_202407241633215770&quot;, this);" class="btn_url_copy">복사하기</a>
+											</div>
+										</div>
+										<!--//공유하기 팝업-->
+
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="photo">
+							<a href="https://www.ytn.co.kr/_ln/0105_202407241633215770">
+																<img data-src="https://www.ytn.co.kr/img/news/default_0105.jpg" alt="'우주 삼각 클러스터'에 7년간 3천8백억 원...&quot;기반시설 먼저&quot;" src="https://www.ytn.co.kr/img/news/default_0105.jpg" class="lazy-loaded">
+							</a>
+						</div>
+					</div>
+									<div class="news_list">
+						<div class="text_area">
+							<div class="title"><a href="https://www.ytn.co.kr/_ln/0105_202407230428450247">"인공태양 '이터' 사업 지연, 기회로"...핵융합 전기 생산 앞당긴다</a></div>
+							<div class="content" style="display:none">[앵커]
+30년 뒤에나 전력 생산이 가능할 것으로 여겨졌던 핵융합 발전의 ...</div>
+							<div class="join_key" style="display:none" value="202407230428450247">202407230428450247</div>
+							<div class="info">
+								<div class="date">2024.07.23. 04:28</div>
+								<div class="buttons">
+									<!--비로그인 시 로그인 페이지로 인동 -->
+									<div class="btn_share_wrap">
+										<a href="javascript:void(0);" class="btn_share"><span>공유하기</span></a>
+
+										<!--공유하기 팝업-->
+										<div id="top_box_share" class="bx_layer_share" style="display:none">
+											<div class="desc">
+												<span>공유하기</span>
+												<a href="javascript:void(0);" class="btn_close" onclick="$(this).closest('#top_box_share').hide();">닫기</a>
+											</div>
+											<ul class="sns_list">
+												<li class="facebook"><a href="javascript:void(0)" onclick="sendSNSList(2,'https://www.ytn.co.kr/_ln/0105_202407230428450247', 'https://image.ytn.co.kr/general/jpg/2024/0723/202407230428450247_h.jpg', this);" alt="페이스북 공유하기">페이스북</a></li>
+												<li class="twitter"><a href="javascript:void(0)" onclick="sendSNSList(3,'https://www.ytn.co.kr/_ln/0105_202407230428450247','https://image.ytn.co.kr/general/jpg/2024/0723/202407230428450247_h.jpg', this);" alt="트위터 공유하기">엑스</a></li>
+												<li class="band"><a href="javascript:void(0)" onclick="sendSNSList(4,'https://www.ytn.co.kr/_ln/0105_202407230428450247','https://image.ytn.co.kr/general/jpg/2024/0723/202407230428450247_h.jpg', this);" alt="밴드 공유하기">밴드</a></li>
+												<li class="kakao"><a href="javascript:void(0)" onclick="sendSNSList(5,'https://www.ytn.co.kr/_ln/0105_202407230428450247','https://image.ytn.co.kr/general/jpg/2024/0723/202407230428450247_h.jpg', this);" alt="카카오톡 공유하기">카카오톡</a></li>
+											</ul>
+											<div class="url_box">
+												<input class="url_text" type="text" readonly="" value="https://www.ytn.co.kr/_ln/0105_202407230428450247">
+												<a href="javascript:void(0);" onclick="sendSNSList(1,&quot;https://www.ytn.co.kr/_ln/0105_202407230428450247&quot;, this);" class="btn_url_copy">복사하기</a>
+											</div>
+										</div>
+										<!--//공유하기 팝업-->
+
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="photo">
+							<a href="https://www.ytn.co.kr/_ln/0105_202407230428450247">
+								<div class="btn_play">재생</div>								<img data-src="https://image.ytn.co.kr/general/jpg/2024/0723/202407230428450247_h.jpg" alt="&quot;인공태양 '이터' 사업 지연, 기회로&quot;...핵융합 전기 생산 앞당긴다" src="https://image.ytn.co.kr/general/jpg/2024/0723/202407230428450247_h.jpg" class="lazy-loaded">
+							</a>
+						</div>
+					</div>
+									<div class="news_list">
+						<div class="text_area">
+							<div class="title"><a href="https://www.ytn.co.kr/_ln/0105_202407210342495092">[과학 한스푼] "누구나 입을 수 있다"...우리 몸 닮은 '웨어러블 로봇' 성큼</a></div>
+							<div class="content" style="display:none">[앵커]
+옷처럼 입을 수 있는 로봇을 뜻하는 '웨어러블 로봇'은 장애인의 ...</div>
+							<div class="join_key" style="display:none" value="202407210342495092">202407210342495092</div>
+							<div class="info">
+								<div class="date">2024.07.21. 03:42</div>
+								<div class="buttons">
+									<!--비로그인 시 로그인 페이지로 인동 -->
+									<div class="btn_share_wrap">
+										<a href="javascript:void(0);" class="btn_share"><span>공유하기</span></a>
+
+										<!--공유하기 팝업-->
+										<div id="top_box_share" class="bx_layer_share" style="display:none">
+											<div class="desc">
+												<span>공유하기</span>
+												<a href="javascript:void(0);" class="btn_close" onclick="$(this).closest('#top_box_share').hide();">닫기</a>
+											</div>
+											<ul class="sns_list">
+												<li class="facebook"><a href="javascript:void(0)" onclick="sendSNSList(2,'https://www.ytn.co.kr/_ln/0105_202407210342495092', 'https://image.ytn.co.kr/general/jpg/2024/0721/202407210342495092_h.jpg', this);" alt="페이스북 공유하기">페이스북</a></li>
+												<li class="twitter"><a href="javascript:void(0)" onclick="sendSNSList(3,'https://www.ytn.co.kr/_ln/0105_202407210342495092','https://image.ytn.co.kr/general/jpg/2024/0721/202407210342495092_h.jpg', this);" alt="트위터 공유하기">엑스</a></li>
+												<li class="band"><a href="javascript:void(0)" onclick="sendSNSList(4,'https://www.ytn.co.kr/_ln/0105_202407210342495092','https://image.ytn.co.kr/general/jpg/2024/0721/202407210342495092_h.jpg', this);" alt="밴드 공유하기">밴드</a></li>
+												<li class="kakao"><a href="javascript:void(0)" onclick="sendSNSList(5,'https://www.ytn.co.kr/_ln/0105_202407210342495092','https://image.ytn.co.kr/general/jpg/2024/0721/202407210342495092_h.jpg', this);" alt="카카오톡 공유하기">카카오톡</a></li>
+											</ul>
+											<div class="url_box">
+												<input class="url_text" type="text" readonly="" value="https://www.ytn.co.kr/_ln/0105_202407210342495092">
+												<a href="javascript:void(0);" onclick="sendSNSList(1,&quot;https://www.ytn.co.kr/_ln/0105_202407210342495092&quot;, this);" class="btn_url_copy">복사하기</a>
+											</div>
+										</div>
+										<!--//공유하기 팝업-->
+
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="photo">
+							<a href="https://www.ytn.co.kr/_ln/0105_202407210342495092">
+								<div class="btn_play">재생</div>								<img data-src="https://image.ytn.co.kr/general/jpg/2024/0721/202407210342495092_h.jpg" alt="[과학 한스푼] &quot;누구나 입을 수 있다&quot;...우리 몸 닮은 '웨어러블 로봇' 성큼" src="https://image.ytn.co.kr/general/jpg/2024/0721/202407210342495092_h.jpg" class="lazy-loaded">
+							</a>
+						</div>
+					</div>
+									<div class="news_list">
+						<div class="text_area">
+							<div class="title"><a href="https://www.ytn.co.kr/_ln/0105_202407200303359038">[짤막상식] 원자력 발전소</a></div>
+							<div class="content" style="display:none">원자력 발전소(Nuclear Power Plant) 핵분열을 이용해서 발전하는 발전소를...</div>
+							<div class="join_key" style="display:none" value="202407200303359038">202407200303359038</div>
+							<div class="info">
+								<div class="date">2024.07.20. 03:03</div>
+								<div class="buttons">
+									<!--비로그인 시 로그인 페이지로 인동 -->
+									<div class="btn_share_wrap">
+										<a href="javascript:void(0);" class="btn_share"><span>공유하기</span></a>
+
+										<!--공유하기 팝업-->
+										<div id="top_box_share" class="bx_layer_share" style="display:none">
+											<div class="desc">
+												<span>공유하기</span>
+												<a href="javascript:void(0);" class="btn_close" onclick="$(this).closest('#top_box_share').hide();">닫기</a>
+											</div>
+											<ul class="sns_list">
+												<li class="facebook"><a href="javascript:void(0)" onclick="sendSNSList(2,'https://www.ytn.co.kr/_ln/0105_202407200303359038', 'https://image.ytn.co.kr/general/jpg/2024/0720/202407200303359038_h.jpg', this);" alt="페이스북 공유하기">페이스북</a></li>
+												<li class="twitter"><a href="javascript:void(0)" onclick="sendSNSList(3,'https://www.ytn.co.kr/_ln/0105_202407200303359038','https://image.ytn.co.kr/general/jpg/2024/0720/202407200303359038_h.jpg', this);" alt="트위터 공유하기">엑스</a></li>
+												<li class="band"><a href="javascript:void(0)" onclick="sendSNSList(4,'https://www.ytn.co.kr/_ln/0105_202407200303359038','https://image.ytn.co.kr/general/jpg/2024/0720/202407200303359038_h.jpg', this);" alt="밴드 공유하기">밴드</a></li>
+												<li class="kakao"><a href="javascript:void(0)" onclick="sendSNSList(5,'https://www.ytn.co.kr/_ln/0105_202407200303359038','https://image.ytn.co.kr/general/jpg/2024/0720/202407200303359038_h.jpg', this);" alt="카카오톡 공유하기">카카오톡</a></li>
+											</ul>
+											<div class="url_box">
+												<input class="url_text" type="text" readonly="" value="https://www.ytn.co.kr/_ln/0105_202407200303359038">
+												<a href="javascript:void(0);" onclick="sendSNSList(1,&quot;https://www.ytn.co.kr/_ln/0105_202407200303359038&quot;, this);" class="btn_url_copy">복사하기</a>
+											</div>
+										</div>
+										<!--//공유하기 팝업-->
+
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="photo">
+							<a href="https://www.ytn.co.kr/_ln/0105_202407200303359038">
+								<div class="btn_play">재생</div>								<img data-src="https://image.ytn.co.kr/general/jpg/2024/0720/202407200303359038_h.jpg" alt="[짤막상식] 원자력 발전소" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+							</a>
+						</div>
+					</div>
+									<div class="news_list">
+						<div class="text_area">
+							<div class="title"><a href="https://www.ytn.co.kr/_ln/0105_202407200118295158">우주의 화두 '쓰레기'..."달 탐사, 지속가능해야"</a></div>
+							<div class="content" style="display:none">[앵커]
+내일/오늘(21일)까지 우리나라에서 국제우주연구위원회 총회가 열...</div>
+							<div class="join_key" style="display:none" value="202407200118295158">202407200118295158</div>
+							<div class="info">
+								<div class="date">2024.07.20. 01:18</div>
+								<div class="buttons">
+									<!--비로그인 시 로그인 페이지로 인동 -->
+									<div class="btn_share_wrap">
+										<a href="javascript:void(0);" class="btn_share"><span>공유하기</span></a>
+
+										<!--공유하기 팝업-->
+										<div id="top_box_share" class="bx_layer_share" style="display:none">
+											<div class="desc">
+												<span>공유하기</span>
+												<a href="javascript:void(0);" class="btn_close" onclick="$(this).closest('#top_box_share').hide();">닫기</a>
+											</div>
+											<ul class="sns_list">
+												<li class="facebook"><a href="javascript:void(0)" onclick="sendSNSList(2,'https://www.ytn.co.kr/_ln/0105_202407200118295158', 'https://image.ytn.co.kr/general/jpg/2024/0720/202407200118295158_h.jpg', this);" alt="페이스북 공유하기">페이스북</a></li>
+												<li class="twitter"><a href="javascript:void(0)" onclick="sendSNSList(3,'https://www.ytn.co.kr/_ln/0105_202407200118295158','https://image.ytn.co.kr/general/jpg/2024/0720/202407200118295158_h.jpg', this);" alt="트위터 공유하기">엑스</a></li>
+												<li class="band"><a href="javascript:void(0)" onclick="sendSNSList(4,'https://www.ytn.co.kr/_ln/0105_202407200118295158','https://image.ytn.co.kr/general/jpg/2024/0720/202407200118295158_h.jpg', this);" alt="밴드 공유하기">밴드</a></li>
+												<li class="kakao"><a href="javascript:void(0)" onclick="sendSNSList(5,'https://www.ytn.co.kr/_ln/0105_202407200118295158','https://image.ytn.co.kr/general/jpg/2024/0720/202407200118295158_h.jpg', this);" alt="카카오톡 공유하기">카카오톡</a></li>
+											</ul>
+											<div class="url_box">
+												<input class="url_text" type="text" readonly="" value="https://www.ytn.co.kr/_ln/0105_202407200118295158">
+												<a href="javascript:void(0);" onclick="sendSNSList(1,&quot;https://www.ytn.co.kr/_ln/0105_202407200118295158&quot;, this);" class="btn_url_copy">복사하기</a>
+											</div>
+										</div>
+										<!--//공유하기 팝업-->
+
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="photo">
+							<a href="https://www.ytn.co.kr/_ln/0105_202407200118295158">
+								<div class="btn_play">재생</div>								<img data-src="https://image.ytn.co.kr/general/jpg/2024/0720/202407200118295158_h.jpg" alt="우주의 화두 '쓰레기'...&quot;달 탐사, 지속가능해야&quot;" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+							</a>
+						</div>
+					</div>
+									<div class="news_list">
+						<div class="text_area">
+							<div class="title"><a href="https://www.ytn.co.kr/_ln/0105_202407191036128311">유상임 장관 후보자 "현장과 적극 소통해 R&amp;D 예산 반영할 것"</a></div>
+							<div class="content" style="display:none">유상임 과학기술정보통신부 장관 후보자는 꼭 필요한 R&amp;D 예산이 반영될 수...</div>
+							<div class="join_key" style="display:none" value="202407191036128311">202407191036128311</div>
+							<div class="info">
+								<div class="date">2024.07.19. 10:36</div>
+								<div class="buttons">
+									<!--비로그인 시 로그인 페이지로 인동 -->
+									<div class="btn_share_wrap">
+										<a href="javascript:void(0);" class="btn_share"><span>공유하기</span></a>
+
+										<!--공유하기 팝업-->
+										<div id="top_box_share" class="bx_layer_share" style="display:none">
+											<div class="desc">
+												<span>공유하기</span>
+												<a href="javascript:void(0);" class="btn_close" onclick="$(this).closest('#top_box_share').hide();">닫기</a>
+											</div>
+											<ul class="sns_list">
+												<li class="facebook"><a href="javascript:void(0)" onclick="sendSNSList(2,'https://www.ytn.co.kr/_ln/0105_202407191036128311', 'https://www.ytn.co.kr/img/news/default_0105.jpg', this);" alt="페이스북 공유하기">페이스북</a></li>
+												<li class="twitter"><a href="javascript:void(0)" onclick="sendSNSList(3,'https://www.ytn.co.kr/_ln/0105_202407191036128311','https://www.ytn.co.kr/img/news/default_0105.jpg', this);" alt="트위터 공유하기">엑스</a></li>
+												<li class="band"><a href="javascript:void(0)" onclick="sendSNSList(4,'https://www.ytn.co.kr/_ln/0105_202407191036128311','https://www.ytn.co.kr/img/news/default_0105.jpg', this);" alt="밴드 공유하기">밴드</a></li>
+												<li class="kakao"><a href="javascript:void(0)" onclick="sendSNSList(5,'https://www.ytn.co.kr/_ln/0105_202407191036128311','https://www.ytn.co.kr/img/news/default_0105.jpg', this);" alt="카카오톡 공유하기">카카오톡</a></li>
+											</ul>
+											<div class="url_box">
+												<input class="url_text" type="text" readonly="" value="https://www.ytn.co.kr/_ln/0105_202407191036128311">
+												<a href="javascript:void(0);" onclick="sendSNSList(1,&quot;https://www.ytn.co.kr/_ln/0105_202407191036128311&quot;, this);" class="btn_url_copy">복사하기</a>
+											</div>
+										</div>
+										<!--//공유하기 팝업-->
+
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="photo">
+							<a href="https://www.ytn.co.kr/_ln/0105_202407191036128311">
+																<img data-src="https://www.ytn.co.kr/img/news/default_0105.jpg" alt="유상임 장관 후보자 &quot;현장과 적극 소통해 R&amp;D 예산 반영할 것&quot;" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+							</a>
+						</div>
+					</div>
+									<div class="news_list">
+						<div class="text_area">
+							<div class="title"><a href="https://www.ytn.co.kr/_ln/0105_202407190328249141">체코 맞춤형으로 바꾼 한국형 원전...안전성·경제성 높다</a></div>
+							<div class="content" style="display:none">[앵커]
+우리나라가 15년 만에 원전 우선협상자로 선정된 데에는 우리의 원...</div>
+							<div class="join_key" style="display:none" value="202407190328249141">202407190328249141</div>
+							<div class="info">
+								<div class="date">2024.07.19. 03:28</div>
+								<div class="buttons">
+									<!--비로그인 시 로그인 페이지로 인동 -->
+									<div class="btn_share_wrap">
+										<a href="javascript:void(0);" class="btn_share"><span>공유하기</span></a>
+
+										<!--공유하기 팝업-->
+										<div id="top_box_share" class="bx_layer_share" style="display:none">
+											<div class="desc">
+												<span>공유하기</span>
+												<a href="javascript:void(0);" class="btn_close" onclick="$(this).closest('#top_box_share').hide();">닫기</a>
+											</div>
+											<ul class="sns_list">
+												<li class="facebook"><a href="javascript:void(0)" onclick="sendSNSList(2,'https://www.ytn.co.kr/_ln/0105_202407190328249141', 'https://image.ytn.co.kr/general/jpg/2024/0719/202407190328249141_h.jpg', this);" alt="페이스북 공유하기">페이스북</a></li>
+												<li class="twitter"><a href="javascript:void(0)" onclick="sendSNSList(3,'https://www.ytn.co.kr/_ln/0105_202407190328249141','https://image.ytn.co.kr/general/jpg/2024/0719/202407190328249141_h.jpg', this);" alt="트위터 공유하기">엑스</a></li>
+												<li class="band"><a href="javascript:void(0)" onclick="sendSNSList(4,'https://www.ytn.co.kr/_ln/0105_202407190328249141','https://image.ytn.co.kr/general/jpg/2024/0719/202407190328249141_h.jpg', this);" alt="밴드 공유하기">밴드</a></li>
+												<li class="kakao"><a href="javascript:void(0)" onclick="sendSNSList(5,'https://www.ytn.co.kr/_ln/0105_202407190328249141','https://image.ytn.co.kr/general/jpg/2024/0719/202407190328249141_h.jpg', this);" alt="카카오톡 공유하기">카카오톡</a></li>
+											</ul>
+											<div class="url_box">
+												<input class="url_text" type="text" readonly="" value="https://www.ytn.co.kr/_ln/0105_202407190328249141">
+												<a href="javascript:void(0);" onclick="sendSNSList(1,&quot;https://www.ytn.co.kr/_ln/0105_202407190328249141&quot;, this);" class="btn_url_copy">복사하기</a>
+											</div>
+										</div>
+										<!--//공유하기 팝업-->
+
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="photo">
+							<a href="https://www.ytn.co.kr/_ln/0105_202407190328249141">
+								<div class="btn_play">재생</div>								<img data-src="https://image.ytn.co.kr/general/jpg/2024/0719/202407190328249141_h.jpg" alt="체코 맞춤형으로 바꾼 한국형 원전...안전성·경제성 높다" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+							</a>
+						</div>
+					</div>
+									<div class="news_list">
+						<div class="text_area">
+							<div class="title"><a href="https://www.ytn.co.kr/_ln/0105_202407190118423023">CCTV에 인공지능 더했다...범죄 예방 첫걸음</a></div>
+							<div class="content" style="display:none">[앵커]
+CCTV는 범죄를 막는 '제3의 눈'으로 꼽히지만, 대부분은 감시 목적...</div>
+							<div class="join_key" style="display:none" value="202407190118423023">202407190118423023</div>
+							<div class="info">
+								<div class="date">2024.07.19. 01:18</div>
+								<div class="buttons">
+									<!--비로그인 시 로그인 페이지로 인동 -->
+									<div class="btn_share_wrap">
+										<a href="javascript:void(0);" class="btn_share"><span>공유하기</span></a>
+
+										<!--공유하기 팝업-->
+										<div id="top_box_share" class="bx_layer_share" style="display:none">
+											<div class="desc">
+												<span>공유하기</span>
+												<a href="javascript:void(0);" class="btn_close" onclick="$(this).closest('#top_box_share').hide();">닫기</a>
+											</div>
+											<ul class="sns_list">
+												<li class="facebook"><a href="javascript:void(0)" onclick="sendSNSList(2,'https://www.ytn.co.kr/_ln/0105_202407190118423023', 'https://image.ytn.co.kr/general/jpg/2024/0719/202407190118423023_h.jpg', this);" alt="페이스북 공유하기">페이스북</a></li>
+												<li class="twitter"><a href="javascript:void(0)" onclick="sendSNSList(3,'https://www.ytn.co.kr/_ln/0105_202407190118423023','https://image.ytn.co.kr/general/jpg/2024/0719/202407190118423023_h.jpg', this);" alt="트위터 공유하기">엑스</a></li>
+												<li class="band"><a href="javascript:void(0)" onclick="sendSNSList(4,'https://www.ytn.co.kr/_ln/0105_202407190118423023','https://image.ytn.co.kr/general/jpg/2024/0719/202407190118423023_h.jpg', this);" alt="밴드 공유하기">밴드</a></li>
+												<li class="kakao"><a href="javascript:void(0)" onclick="sendSNSList(5,'https://www.ytn.co.kr/_ln/0105_202407190118423023','https://image.ytn.co.kr/general/jpg/2024/0719/202407190118423023_h.jpg', this);" alt="카카오톡 공유하기">카카오톡</a></li>
+											</ul>
+											<div class="url_box">
+												<input class="url_text" type="text" readonly="" value="https://www.ytn.co.kr/_ln/0105_202407190118423023">
+												<a href="javascript:void(0);" onclick="sendSNSList(1,&quot;https://www.ytn.co.kr/_ln/0105_202407190118423023&quot;, this);" class="btn_url_copy">복사하기</a>
+											</div>
+										</div>
+										<!--//공유하기 팝업-->
+
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="photo">
+							<a href="https://www.ytn.co.kr/_ln/0105_202407190118423023">
+								<div class="btn_play">재생</div>								<img data-src="https://image.ytn.co.kr/general/jpg/2024/0719/202407190118423023_h.jpg" alt="CCTV에 인공지능 더했다...범죄 예방 첫걸음" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+							</a>
+						</div>
+					</div>
+									<div class="news_list">
+						<div class="text_area">
+							<div class="title"><a href="https://www.ytn.co.kr/_ln/0105_202407182159199745">체코 맞춤형으로 바꾼 한국형 원전...안전성·경제성 높다</a></div>
+							<div class="content" style="display:none">[앵커]
+우리나라가 15년 만에 원전 우선협상자로 선정된 데에는 우리의 원...</div>
+							<div class="join_key" style="display:none" value="202407182159199745">202407182159199745</div>
+							<div class="info">
+								<div class="date">2024.07.18. 21:59</div>
+								<div class="buttons">
+									<!--비로그인 시 로그인 페이지로 인동 -->
+									<div class="btn_share_wrap">
+										<a href="javascript:void(0);" class="btn_share"><span>공유하기</span></a>
+
+										<!--공유하기 팝업-->
+										<div id="top_box_share" class="bx_layer_share" style="display:none">
+											<div class="desc">
+												<span>공유하기</span>
+												<a href="javascript:void(0);" class="btn_close" onclick="$(this).closest('#top_box_share').hide();">닫기</a>
+											</div>
+											<ul class="sns_list">
+												<li class="facebook"><a href="javascript:void(0)" onclick="sendSNSList(2,'https://www.ytn.co.kr/_ln/0105_202407182159199745', 'https://image.ytn.co.kr/general/jpg/2024/0718/202407182159199745_h.jpg', this);" alt="페이스북 공유하기">페이스북</a></li>
+												<li class="twitter"><a href="javascript:void(0)" onclick="sendSNSList(3,'https://www.ytn.co.kr/_ln/0105_202407182159199745','https://image.ytn.co.kr/general/jpg/2024/0718/202407182159199745_h.jpg', this);" alt="트위터 공유하기">엑스</a></li>
+												<li class="band"><a href="javascript:void(0)" onclick="sendSNSList(4,'https://www.ytn.co.kr/_ln/0105_202407182159199745','https://image.ytn.co.kr/general/jpg/2024/0718/202407182159199745_h.jpg', this);" alt="밴드 공유하기">밴드</a></li>
+												<li class="kakao"><a href="javascript:void(0)" onclick="sendSNSList(5,'https://www.ytn.co.kr/_ln/0105_202407182159199745','https://image.ytn.co.kr/general/jpg/2024/0718/202407182159199745_h.jpg', this);" alt="카카오톡 공유하기">카카오톡</a></li>
+											</ul>
+											<div class="url_box">
+												<input class="url_text" type="text" readonly="" value="https://www.ytn.co.kr/_ln/0105_202407182159199745">
+												<a href="javascript:void(0);" onclick="sendSNSList(1,&quot;https://www.ytn.co.kr/_ln/0105_202407182159199745&quot;, this);" class="btn_url_copy">복사하기</a>
+											</div>
+										</div>
+										<!--//공유하기 팝업-->
+
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="photo">
+							<a href="https://www.ytn.co.kr/_ln/0105_202407182159199745">
+								<div class="btn_play">재생</div>								<img data-src="https://image.ytn.co.kr/general/jpg/2024/0718/202407182159199745_h.jpg" alt="체코 맞춤형으로 바꾼 한국형 원전...안전성·경제성 높다" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+							</a>
+						</div>
+					</div>
+									<div class="news_list">
+						<div class="text_area">
+							<div class="title"><a href="https://www.ytn.co.kr/_ln/0105_202407181825557977">체코 맞춤형으로 바꾼 한국형 원전...안전성·경제성 높다</a></div>
+							<div class="content" style="display:none">[앵커]
+우리나라가 15년 만에 원전 우선협상자로 선정된 데에는 우리의 원...</div>
+							<div class="join_key" style="display:none" value="202407181825557977">202407181825557977</div>
+							<div class="info">
+								<div class="date">2024.07.18. 18:25</div>
+								<div class="buttons">
+									<!--비로그인 시 로그인 페이지로 인동 -->
+									<div class="btn_share_wrap">
+										<a href="javascript:void(0);" class="btn_share"><span>공유하기</span></a>
+
+										<!--공유하기 팝업-->
+										<div id="top_box_share" class="bx_layer_share" style="display:none">
+											<div class="desc">
+												<span>공유하기</span>
+												<a href="javascript:void(0);" class="btn_close" onclick="$(this).closest('#top_box_share').hide();">닫기</a>
+											</div>
+											<ul class="sns_list">
+												<li class="facebook"><a href="javascript:void(0)" onclick="sendSNSList(2,'https://www.ytn.co.kr/_ln/0105_202407181825557977', 'https://image.ytn.co.kr/general/jpg/2024/0718/202407181825557977_h.jpg', this);" alt="페이스북 공유하기">페이스북</a></li>
+												<li class="twitter"><a href="javascript:void(0)" onclick="sendSNSList(3,'https://www.ytn.co.kr/_ln/0105_202407181825557977','https://image.ytn.co.kr/general/jpg/2024/0718/202407181825557977_h.jpg', this);" alt="트위터 공유하기">엑스</a></li>
+												<li class="band"><a href="javascript:void(0)" onclick="sendSNSList(4,'https://www.ytn.co.kr/_ln/0105_202407181825557977','https://image.ytn.co.kr/general/jpg/2024/0718/202407181825557977_h.jpg', this);" alt="밴드 공유하기">밴드</a></li>
+												<li class="kakao"><a href="javascript:void(0)" onclick="sendSNSList(5,'https://www.ytn.co.kr/_ln/0105_202407181825557977','https://image.ytn.co.kr/general/jpg/2024/0718/202407181825557977_h.jpg', this);" alt="카카오톡 공유하기">카카오톡</a></li>
+											</ul>
+											<div class="url_box">
+												<input class="url_text" type="text" readonly="" value="https://www.ytn.co.kr/_ln/0105_202407181825557977">
+												<a href="javascript:void(0);" onclick="sendSNSList(1,&quot;https://www.ytn.co.kr/_ln/0105_202407181825557977&quot;, this);" class="btn_url_copy">복사하기</a>
+											</div>
+										</div>
+										<!--//공유하기 팝업-->
+
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="photo">
+							<a href="https://www.ytn.co.kr/_ln/0105_202407181825557977">
+								<div class="btn_play">재생</div>								<img data-src="https://image.ytn.co.kr/general/jpg/2024/0718/202407181825557977_h.jpg" alt="체코 맞춤형으로 바꾼 한국형 원전...안전성·경제성 높다" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+							</a>
+						</div>
+					</div>
+								</div>
