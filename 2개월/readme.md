@@ -2,6 +2,7 @@
 
 # 한글설정
 !apt-get install -y fonts-nanum*
+
 !rm -rf /root/.cache/matplotlib/* # 폰트 캐시 재설정
 
 
