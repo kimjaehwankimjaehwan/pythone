@@ -8,11 +8,17 @@
 
 # 런타임 다시 시작 후 실행
 %matplotlib inline
+
 import matplotlib.pyplot as plt
+
 import matplotlib as mpl 
+
 #
+
 path = '/usr/share/fonts/truetype/nanum/NanumGothic.ttf'
+
 font_name = mpl.font_manager.FontProperties(fname=path).get_name()
+
 plt.rcParams['font.family'] = font_name
 
 
